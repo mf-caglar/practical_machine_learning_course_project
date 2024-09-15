@@ -18,10 +18,10 @@ The data comes from the Human Activity Recognition (HAR) study, where six young 
 
 ## Project Structure
 
-pml_course_project.Rmd: The main RMarkdown file containing the analysis, data preprocessing, model training, and model evaluation.
-pml_course_project.html: The HTML output of the project report generated from the .Rmd file.
-model_stack.rds: The saved stacked model object that was built using various base models.
-weight_lift_image.png: A diagram or image showing the placement of sensors on the body for better visualization.
+* **pml_course_project.Rmd:** The main RMarkdown file containing the analysis, data preprocessing, model training, and model evaluation.
+* **pml_course_project.html:** The HTML output of the project report generated from the .Rmd file.
+* **model_stack.rds:** The saved stacked model object that was built using various base models.
+* **weight_lift_image.png:** A diagram or image showing the placement of sensors on the body for better visualization.
 
 ## Key Steps in the Analysis
 
