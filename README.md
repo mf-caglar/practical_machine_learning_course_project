@@ -1,7 +1,7 @@
 # Practical Machine Learning Course Project
 
 * You can also view the project on RPubs: [link](https://rpubs.com/mfcaglar/1220498)
-This repository contains the project files for the Practical Machine Learning Course Project. In this project, we analyze the Human Activity Recognition (HAR) Weight Lifting Exercises Dataset and build machine learning models to classify different types of exercises based on sensor data.
+* This repository contains the project files for the Practical Machine Learning Course Project. In this project, we analyze the Human Activity Recognition (HAR) Weight Lifting Exercises Dataset and build machine learning models to classify different types of exercises based on sensor data.
 
 ## Project Overview
 
