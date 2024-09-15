@@ -10,11 +10,11 @@ The goal of this project is to predict the type of exercise performed by individ
 
 The data comes from the Human Activity Recognition (HAR) study, where six young healthy participants performed a set of 10 repetitions of the Unilateral Dumbbell Biceps Curl in five different ways:
 
-Class A: Exactly according to the specification.
-Class B: Throwing the elbows to the front.
-Class C: Lifting the dumbbell halfway.
-Class D: Lowering the dumbbell halfway.
-Class E: Throwing the hips to the front.
+* Class A: Exactly according to the specification.
+* Class B: Throwing the elbows to the front.
+* Class C: Lifting the dumbbell halfway.
+* Class D: Lowering the dumbbell halfway.
+* Class E: Throwing the hips to the front.
 
 ## Project Structure
 
